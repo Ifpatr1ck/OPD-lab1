@@ -10,4 +10,4 @@ elif (operation == '*'):
     print(first_var * second_var)
 elif (operation == '/'):
     print(first_var / second_var)
-print("Жижа")
+print("Внес изменения для проверки коммита")
